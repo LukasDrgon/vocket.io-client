@@ -10,7 +10,7 @@
     "url": "https://github.com/DiegoRBaquero/V/issues"
   },
   "dependencies": {
-    "debug": "^2.6.1",
+    "debug": "^2.6.5",
     "simple-websocket": "^5.0.0"
   },
   "devDependencies": {
